@@ -36,14 +36,14 @@ Change is constant, even in the skies. With SkyLink's database wizardry, flight 
 
 Join the league of innovators! Here's how you can contribute to SkyLink's journey:
 
-1. 🛠️ Clone this repository: `git clone https://github.com/your-username/skylink.git`
+1. 🛠️ Clone this repository: `git clone https://github.com/apo-orvv/skylink.git`
 2. 🌆 Create your development playground and set up dependencies.
 3. 🚀 Launch the application locally or take it to the cloud.
 4. 🌟 Share your explorations, enhancements, and magic with the community.
 
 ## Signals for Contact
 
-Have celestial questions or suggestions? Connect with us via [skylink@dreamadventures.com](mailto:skylink@dreamadventures.com) or dispatch a signal in our repository's issue galaxy.
+Have celestial questions or suggestions? Connect with us via our [Inbox](mailto:apoorvdsp@gmail.com) or dispatch a signal in our repository's issue galaxy.
 
 ## Creative Commons Constellation
 
