@@ -1,6 +1,6 @@
 # SkyLink: Connecting Travelers, Linking Skies
 
-![SkyLink Logo](/path/to/logo.png)
+![SkyLink Logo](logo.png)
 
 🌍 Welcome aboard SkyLink – your passport to a world of seamless exploration and flight reservations. Our mission is to dissolve the distance between dreams and reality by crafting an extraordinary flight booking experience that transcends expectations.
 
